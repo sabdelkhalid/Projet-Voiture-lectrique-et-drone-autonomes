@@ -295,11 +295,6 @@ src/*.ino            → orchestration : machine à états + boucles temporisée
 
 ---
 
-## 📄 Licence
-
-Ce projet est publié sous licence **MIT** — voir [`LICENSE`](LICENSE).
-
----
 
 ## 🙌 Contribuer
 
