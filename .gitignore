@@ -1,0 +1,18 @@
+# Arduino / PlatformIO
+.pio/
+.vscode/
+*.hex
+*.elf
+
+# MATLAB
+*.asv
+*.m~
+slprj/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python (scripts optionnels de prévisualisation)
+__pycache__/
+*.pyc
